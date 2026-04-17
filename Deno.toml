@@ -2,3 +2,6 @@
 name = "deno3-test2"
 version = "1.0.0"
 exports = "./src/mod.ts"
+
+[imports]
+assert = "gh:denoland/just-an-idea/packages/assert@*"
