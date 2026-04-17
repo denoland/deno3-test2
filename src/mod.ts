@@ -5,4 +5,4 @@ export function greet(name: string): string {
   return `hello ${name}`;
 }
 
-export const VERSION = "1.1.0";
+export const VERSION = "1.2.0";
